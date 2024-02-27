@@ -13,11 +13,11 @@ sites:
 
 status-website:
   cname: status.smart.obrokov.cz
-  logoUrl: $LOGO
+  logoUrl: https://shop.obrokov.cz/images/logo.png
   name: "OBK-Smart: Status"
   introTitle: "**OBK-Smart**: Status stránka."
   navbar:
     - title: Status stránka
       href: /
     - title: Hlavní stránka
-      href: $URL
+      href: https://smart.obrokov.cz
