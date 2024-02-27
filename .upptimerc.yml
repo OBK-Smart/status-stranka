@@ -1,6 +1,5 @@
-# Change these first
-owner: OBK-Smart # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: OBK-Smart
+repo: status-stranka
 
 sites:
   - name: Hlavní stránka
@@ -14,16 +13,13 @@ sites:
 
 status-website:
   cname: status.smart.obrokov.cz
-  # baseUrl: /
   logoUrl: $LOGO
   name: "OBK-Smart: Status"
   introTitle: "**OBK-Smart**: Status stránka."
-  #introMessage: 
   navbar:
     - title: Status stránka
       href: /
     - title: Hlavní stránka
       href: $URL
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# https://upptime.js.org/docs/configuration
