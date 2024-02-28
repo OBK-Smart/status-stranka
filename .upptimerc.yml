@@ -21,3 +21,12 @@ status-website:
       href: /
     - title: Hlavní stránka
       href: https://smart.obrokov.cz
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "*/5 * * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
