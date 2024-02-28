@@ -10,10 +10,6 @@ sites:
     check: "tcp-ping"
     url: $COM_IP
     port: $COM_PORT
-  - name: Testovací výpadek
-    check: "tcp-ping"
-    url: smart.obrokov.cz
-    port: 1111
 
 status-website:
   cname: status.smart.obrokov.cz
