@@ -4,18 +4,20 @@
     "url": "$URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hlavni-stranka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 616,
-    "timeWeek": 635,
-    "timeMonth": 647,
-    "timeYear": 647,
-    "dailyMinutesDown": {}
+    "time": 648,
+    "timeDay": 649,
+    "timeWeek": 637,
+    "timeMonth": 648,
+    "timeYear": 648,
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "Komunikační API",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
+    "time": 127,
     "timeDay": 118,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "timeWeek": 126,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   },
   {
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 115,
-    "timeWeek": 123,
+    "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {}
