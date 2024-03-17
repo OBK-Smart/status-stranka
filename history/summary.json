@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 647,
-    "timeDay": 631,
-    "timeWeek": 637,
+    "timeDay": 628,
+    "timeWeek": 636,
     "timeMonth": 647,
     "timeYear": 647,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "komunikacni-api",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 120,
+    "timeDay": 123,
     "timeWeek": 125,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2024-03-16": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Komunikační protokol",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 118,
-    "timeWeek": 121,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 121,
+    "timeDay": 120,
+    "timeWeek": 120,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]
