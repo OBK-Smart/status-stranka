@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
-    "timeDay": 605,
-    "timeWeek": 675,
-    "timeMonth": 651,
+    "timeDay": 600,
+    "timeWeek": 673,
+    "timeMonth": 650,
     "timeYear": 652,
     "dailyMinutesDown": {}
   },
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 122,
+    "timeDay": 121,
     "timeWeek": 125,
     "timeMonth": 124,
     "timeYear": 126,
@@ -40,10 +40,10 @@
     "url": "$COM_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "komunikacni-protokol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
@@ -51,6 +51,8 @@
     "timeWeek": 120,
     "timeMonth": 121,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-25": 1
+    }
   }
 ]
