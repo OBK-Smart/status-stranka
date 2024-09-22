@@ -5,12 +5,15 @@ skipDeleteIssues: true
 sites:
   - name: Hlavní stránka
     url: $URL
+    maxResponseTime: 2500
   - name: Komunikační API
     url: $API
+    maxResponseTime: 2500
   - name: Komunikační protokol
     check: "tcp-ping"
     url: $COM_IP
     port: $COM_PORT
+    maxResponseTime: 2500
 
 status-website:
   cname: status.smart.obrokov.cz
