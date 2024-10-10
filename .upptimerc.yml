@@ -25,6 +25,7 @@ status-website:
   logoUrl: https://shop.obrokov.cz/images/logo.png
   name: "OBK-Smart: Status"
   introTitle: "**OBK-Smart**: Status stránka."
+  favicon: https://smart.obrokov.cz/assety/ikony/32x32.png
   navbar:
     - title: Status stránka
       href: /
