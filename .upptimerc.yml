@@ -4,17 +4,21 @@ skipDeleteIssues: true
 
 sites:
   - name: Hlavní stránka
+    icon: https://smart.obrokov.cz/assety/ikony/32x32.png
     url: $URL
     maxResponseTime: 2500
   - name: Komunikační API
+    icon: https://smart.obrokov.cz/assety/ikony/32x32.png
     url: $API
     method: POST
     maxResponseTime: 2500
   - name: Databáze
+    icon: https://smart.obrokov.cz/assety/ikony/32x32.png
     url: $DB
     method: POST
     maxResponseTime: 2500
   - name: Komunikační protokol
+    icon: https://smart.obrokov.cz/assety/ikony/32x32.png
     check: "tcp-ping"
     url: $COM_IP
     port: $COM_PORT
@@ -22,7 +26,7 @@ sites:
 
 status-website:
   cname: status.smart.obrokov.cz
-  logoUrl: https://shop.obrokov.cz/images/logo.png
+  logoUrl: https://smart.obrokov.cz/assety/logo.png
   name: "OBK-Smart: Status"
   introTitle: "**OBK-Smart**: Status stránka."
   favicon: https://smart.obrokov.cz/assety/ikony/32x32.png
