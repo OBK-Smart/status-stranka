@@ -8,6 +8,11 @@ sites:
     maxResponseTime: 2500
   - name: Komunikační API
     url: $API
+    method: POST
+    maxResponseTime: 2500
+  - name: Databáze
+    url: $DB
+    method: POST
     maxResponseTime: 2500
   - name: Komunikační protokol
     check: "tcp-ping"
