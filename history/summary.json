@@ -4,11 +4,11 @@
     "url": "$URL",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "hlavni-stranka",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 669,
     "timeDay": 702,
@@ -16,7 +16,7 @@
     "timeMonth": 711,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 7
     }
   },
   {
