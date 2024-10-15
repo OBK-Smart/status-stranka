@@ -27,8 +27,8 @@ sites:
 status-website:
   cname: status.smart.obrokov.cz
   logoUrl: https://smart.obrokov.cz/assety/logo.png
-  name: "OBK-Smart: Status"
-  introTitle: "**OBK-Smart**: Status stránka."
+  name: "OBK: Status"
+  introTitle: "**OBK**: Status stránka."
   favicon: https://smart.obrokov.cz/assety/ikony/32x32.png
   navbar:
     - title: Status stránka
