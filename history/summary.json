@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 818,
+    "timeDay": 820,
     "timeWeek": 832,
-    "timeMonth": 834,
+    "timeMonth": 833,
     "timeYear": 697,
     "dailyMinutesDown": {}
   },
@@ -40,19 +40,19 @@
     "url": "$DB",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "databaze",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 125,
     "timeDay": 121,
     "timeWeek": 129,
     "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-12-13": 4
+      "2024-12-13": 14
     }
   },
   {
