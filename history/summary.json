@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
-    "timeDay": 903,
-    "timeWeek": 867,
+    "timeDay": 829,
+    "timeWeek": 868,
     "timeMonth": 855,
     "timeYear": 711,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 133,
+    "timeDay": 124,
     "timeWeek": 131,
-    "timeMonth": 128,
+    "timeMonth": 129,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "$DB",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "databaze",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 133,
-    "timeWeek": 130,
-    "timeMonth": 126,
+    "timeDay": 129,
+    "timeWeek": 131,
+    "timeMonth": 127,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 5
+    }
   },
   {
     "name": "Komunikační protokol",
@@ -65,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 131,
-    "timeWeek": 127,
+    "timeDay": 121,
+    "timeWeek": 126,
     "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {}
