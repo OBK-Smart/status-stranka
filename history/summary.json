@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 720,
-    "timeDay": 849,
+    "timeDay": 847,
     "timeWeek": 795,
     "timeMonth": 835,
     "timeYear": 720,
@@ -22,11 +22,11 @@
     "url": "$API",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "komunikacni-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 131,
@@ -34,7 +34,7 @@
     "timeMonth": 127,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-02-10": 4
+      "2025-02-10": 14
     }
   },
   {
@@ -42,11 +42,11 @@
     "url": "$DB",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "databaze",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.91%",
     "time": 125,
     "timeDay": 126,
@@ -54,7 +54,7 @@
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-02-10": 5,
+      "2025-02-10": 13,
       "2025-01-31": 9,
       "2025-01-28": 48,
       "2025-01-27": 40,
