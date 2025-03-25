@@ -22,19 +22,19 @@
     "url": "$API",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "komunikacni-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 129,
-    "timeDay": 151,
+    "timeDay": 152,
     "timeWeek": 163,
     "timeMonth": 135,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-03-25": 3,
+      "2025-03-25": 12,
       "2025-02-20": 24
     }
   },
@@ -43,19 +43,19 @@
     "url": "$DB",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "databaze",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 126,
     "timeDay": 147,
     "timeWeek": 134,
     "timeMonth": 128,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-03-25": 6
+      "2025-03-25": 12
     }
   },
   {
