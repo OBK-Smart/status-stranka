@@ -1,6 +1,6 @@
 owner: OBK-Smart
 repo: status-stranka
-skipDeleteIssues: true
+skipDeleteIssues: false
 
 sites:
   - name: Hlavní stránka
