@@ -4,36 +4,39 @@
     "url": "$URL",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "hlavni-stranka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 783,
-    "timeDay": 796,
-    "timeWeek": 831,
+    "timeDay": 812,
+    "timeWeek": 830,
     "timeMonth": 847,
     "timeYear": 784,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-16": 0
+    }
   },
   {
     "name": "Komunikační API",
     "url": "$API",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "komunikacni-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 131,
     "timeDay": 120,
     "timeWeek": 130,
     "timeMonth": 135,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2025-06-16": 3,
       "2025-02-20": 24
     }
   },
@@ -42,35 +45,39 @@
     "url": "$DB",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "databaze",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 119,
+    "timeDay": 120,
     "timeWeek": 128,
     "timeMonth": 132,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-16": 5
+    }
   },
   {
     "name": "Komunikační protokol",
     "url": "$COM_IP",
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "komunikacni-protokol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 115,
+    "timeDay": 117,
     "timeWeek": 119,
     "timeMonth": 121,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-16": 6
+    }
   }
 ]
