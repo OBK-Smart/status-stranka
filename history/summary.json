@@ -6,18 +6,16 @@
     "slug": "hlavni-stranka",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 815,
-    "timeWeek": 831,
-    "timeMonth": 847,
-    "timeYear": 784,
-    "dailyMinutesDown": {
-      "2025-06-16": 13
-    }
+    "time": 784,
+    "timeDay": 935,
+    "timeWeek": 845,
+    "timeMonth": 850,
+    "timeYear": 785,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Komunikační API",
@@ -25,18 +23,17 @@
     "icon": "https://smart.obrokov.cz/assety/ikony/32x32.png",
     "slug": "komunikacni-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 120,
-    "timeWeek": 130,
-    "timeMonth": 135,
+    "timeDay": 168,
+    "timeWeek": 136,
+    "timeMonth": 136,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-06-16": 13,
       "2025-02-20": 24
     }
   },
@@ -47,18 +44,16 @@
     "slug": "databaze",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 120,
+    "timeDay": 125,
     "timeWeek": 128,
     "timeMonth": 132,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2025-06-16": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Komunikační protokol",
@@ -67,17 +62,15 @@
     "slug": "komunikacni-protokol",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 117,
     "timeWeek": 119,
     "timeMonth": 121,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2025-06-16": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
