@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 787,
-    "timeDay": 989,
-    "timeWeek": 926,
-    "timeMonth": 864,
+    "timeDay": 973,
+    "timeWeek": 942,
+    "timeMonth": 866,
     "timeYear": 788,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 124,
+    "timeDay": 126,
     "timeWeek": 136,
-    "timeMonth": 135,
+    "timeMonth": 134,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-02-20": 24
@@ -44,16 +44,18 @@
     "slug": "databaze",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 126,
-    "timeWeek": 130,
+    "timeDay": 128,
+    "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-20": 2
+    }
   },
   {
     "name": "Komunikační protokol",
@@ -67,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 119,
-    "timeWeek": 120,
+    "timeDay": 122,
+    "timeWeek": 121,
     "timeMonth": 120,
     "timeYear": 122,
     "dailyMinutesDown": {}
