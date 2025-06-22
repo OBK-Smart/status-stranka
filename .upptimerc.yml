@@ -3,26 +3,26 @@ repo: status-stranka
 skipDeleteIssues: false
 
 sites:
-  - name: SERVER 1 - Hlavní stránka
+  - name: Hlavní stránka
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     url: $URL
     maxResponseTime: 2500
-  - name: SERVER 1 - Komunikační API
+  - name: Komunikační API
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     url: $API
     method: POST
     maxResponseTime: 2500
-  - name: SERVER 1 - Databáze
+  - name: Databáze
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     url: $DB
     method: POST
     maxResponseTime: 2500
-  - name: SERVER 2 - Databáze
+  - name: Databáze č. 2
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     url: $DB2
     method: POST
     maxResponseTime: 2500
-  - name: SERVER 1 - Komunikační protokol
+  - name: Komunikační protokol
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     check: "tcp-ping"
     url: $COM_IP
