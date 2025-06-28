@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 1025,
-    "timeWeek": 1013,
-    "timeMonth": 1013,
-    "timeYear": 1013,
+    "time": 1022,
+    "timeDay": 1054,
+    "timeWeek": 1022,
+    "timeMonth": 1022,
+    "timeYear": 1022,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
+    "time": 134,
     "timeDay": 131,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "$DB",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-databaze",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 129,
-    "timeDay": 130,
+    "timeDay": 128,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 2
+    }
   },
   {
     "name": "SERVER 2 - Databáze",
@@ -59,18 +61,18 @@
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-2-databaze",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "82.16%",
+    "uptimeDay": "21.61%",
+    "uptimeWeek": "82.16%",
+    "uptimeMonth": "82.16%",
+    "uptimeYear": "82.16%",
     "time": 155,
-    "timeDay": 149,
+    "timeDay": 150,
     "timeWeek": 155,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-06-28": 0
+      "2025-06-28": 1129
     }
   },
   {
@@ -84,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 122,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 121,
+    "timeDay": 123,
+    "timeWeek": 121,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]
