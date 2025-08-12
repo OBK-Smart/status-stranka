@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1032,
-    "timeDay": 1055,
-    "timeWeek": 1080,
+    "timeDay": 1050,
+    "timeWeek": 1081,
     "timeMonth": 1053,
     "timeYear": 1032,
     "dailyMinutesDown": {}
@@ -40,10 +40,10 @@
     "url": "$DB",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-databaze",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
@@ -51,9 +51,7 @@
     "timeWeek": 178,
     "timeMonth": 145,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2025-08-11": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SERVER 2 - Databáze",
@@ -61,14 +59,14 @@
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-2-databaze",
     "status": "up",
-    "uptime": "95.82%",
-    "uptimeDay": "74.40%",
+    "uptime": "95.83%",
+    "uptimeDay": "83.94%",
     "uptimeWeek": "87.79%",
     "uptimeMonth": "97.19%",
-    "uptimeYear": "95.82%",
+    "uptimeYear": "95.83%",
     "time": 159,
-    "timeDay": 176,
-    "timeWeek": 168,
+    "timeDay": 175,
+    "timeWeek": 169,
     "timeMonth": 163,
     "timeYear": 159,
     "dailyMinutesDown": {
@@ -91,7 +89,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 127,
-    "timeWeek": 122,
+    "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {}
