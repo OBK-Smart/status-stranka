@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1037,
     "timeDay": 1048,
-    "timeWeek": 1068,
+    "timeWeek": 1069,
     "timeMonth": 1059,
     "timeYear": 1037,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "$API",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-komunikacni-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 147,
     "timeDay": 136,
     "timeWeek": 180,
     "timeMonth": 156,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-08-17": 0
+      "2025-08-17": 9
     }
   },
   {
@@ -70,7 +70,7 @@
     "uptimeYear": "93.68%",
     "time": 160,
     "timeDay": 160,
-    "timeWeek": 170,
+    "timeWeek": 169,
     "timeMonth": 163,
     "timeYear": 160,
     "dailyMinutesDown": {
