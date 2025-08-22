@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1037,
-    "timeDay": 970,
-    "timeWeek": 1047,
-    "timeMonth": 1055,
-    "timeYear": 1037,
+    "time": 1036,
+    "timeDay": 937,
+    "timeWeek": 1035,
+    "timeMonth": 1053,
+    "timeYear": 1036,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "$API",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-komunikacni-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 131,
-    "timeWeek": 146,
+    "timeDay": 156,
+    "timeWeek": 145,
     "timeMonth": 158,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "SERVER 1 - Databáze",
@@ -46,11 +48,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 139,
-    "timeDay": 142,
-    "timeWeek": 145,
+    "time": 140,
+    "timeDay": 145,
+    "timeWeek": 143,
     "timeMonth": 149,
-    "timeYear": 139,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2025-08-15": 6
     }
@@ -61,14 +63,14 @@
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-2-databaze",
     "status": "up",
-    "uptime": "94.19%",
+    "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.66%",
-    "uptimeYear": "94.19%",
+    "uptimeYear": "94.25%",
     "time": 161,
-    "timeDay": 167,
-    "timeWeek": 169,
+    "timeDay": 166,
+    "timeWeek": 165,
     "timeMonth": 166,
     "timeYear": 161,
     "dailyMinutesDown": {
@@ -93,7 +95,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 121,
-    "timeWeek": 123,
+    "timeWeek": 121,
     "timeMonth": 123,
     "timeYear": 122,
     "dailyMinutesDown": {}
