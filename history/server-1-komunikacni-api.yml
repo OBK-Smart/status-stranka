@@ -1,7 +1,7 @@
 url: $API
-status: up
+status: degraded
 code: 200
-responseTime: 1628
-lastUpdated: 2025-08-24T08:31:00.772Z
+responseTime: 11434
+lastUpdated: 2025-08-24T08:32:45.520Z
 startTime: 2025-06-24T14:08:00.002Z
 generator: Upptime <https://github.com/upptime/upptime>
