@@ -1,7 +1,7 @@
 url: $DB2
-status: up
+status: degraded
 code: 200
-responseTime: 178
-lastUpdated: 2025-08-24T07:59:39.082Z
+responseTime: 25946
+lastUpdated: 2025-08-24T08:31:54.688Z
 startTime: 2025-06-24T14:08:01.218Z
 generator: Upptime <https://github.com/upptime/upptime>
