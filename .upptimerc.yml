@@ -14,8 +14,8 @@ sites:
     url: $API
     method: POST
     maxResponseTime: 2500
-    type: globalping
-    location: CZ
+    #type: globalping
+    #location: CZ
   - name: SERVER 1 - Databáze
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     url: $DB
@@ -28,16 +28,16 @@ sites:
     url: $DB2
     method: POST
     maxResponseTime: 2500
-    type: globalping
-    location: CZ
+    #type: globalping
+    #location: CZ
   - name: SERVER 1 - Komunikační protokol
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     check: "tcp-ping"
     url: $COM_IP
     port: $COM_PORT
     maxResponseTime: 2500
-    type: globalping
-    location: CZ
+    #type: globalping
+    #location: CZ
 
 status-website:
   cname: status.smart.obrokov.cz
