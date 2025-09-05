@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1037,
-    "timeDay": 1052,
-    "timeWeek": 1054,
+    "timeDay": 1040,
+    "timeWeek": 1051,
     "timeMonth": 1052,
     "timeYear": 1037,
     "dailyMinutesDown": {}
@@ -22,10 +22,10 @@
     "url": "$API",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-komunikacni-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
@@ -33,35 +33,39 @@
     "timeWeek": 126,
     "timeMonth": 178,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-05": 1
+    }
   },
   {
     "name": "SERVER 1 - Databáze",
     "url": "$DB",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-databaze",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 122,
+    "timeDay": 121,
     "timeWeek": 123,
     "timeMonth": 146,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-05": 1
+    }
   },
   {
     "name": "SERVER 2 - Databáze",
     "url": "$DB2",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-2-databaze",
-    "status": "up",
+    "status": "down",
     "uptime": "97.13%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "99.13%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "96.99%",
     "uptimeYear": "97.13%",
     "time": 166,
@@ -70,6 +74,7 @@
     "timeMonth": 175,
     "timeYear": 166,
     "dailyMinutesDown": {
+      "2025-09-05": 1,
       "2025-09-04": 87,
       "2025-08-11": 346,
       "2025-08-10": 885,
