@@ -6,18 +6,16 @@
     "slug": "server-1-hlavni-stranka",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 150,
-    "timeWeek": 143,
+    "time": 691,
+    "timeDay": 151,
+    "timeWeek": 142,
     "timeMonth": 146,
-    "timeYear": 692,
-    "dailyMinutesDown": {
-      "2025-10-11": 6
-    }
+    "timeYear": 691,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SERVER 1 - Komunikační API",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 518,
-    "timeWeek": 518,
+    "timeDay": 513,
+    "timeWeek": 517,
     "timeMonth": 554,
     "timeYear": 322,
     "dailyMinutesDown": {}
@@ -49,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 123,
+    "timeDay": 122,
     "timeWeek": 123,
     "timeMonth": 125,
     "timeYear": 135,
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.10%",
     "time": 171,
-    "timeDay": 152,
-    "timeWeek": 163,
-    "timeMonth": 182,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 183,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2025-09-04": 87,
@@ -86,17 +84,15 @@
     "slug": "server-1-komunikacni-protokol",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2025-10-11": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
