@@ -4,11 +4,11 @@
     "url": "$URL",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-hlavni-stranka",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 558,
     "timeDay": 151,
@@ -16,7 +16,7 @@
     "timeMonth": 145,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 9
     }
   },
   {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 530,
-    "timeWeek": 546,
+    "timeDay": 531,
+    "timeWeek": 547,
     "timeMonth": 541,
     "timeYear": 375,
     "dailyMinutesDown": {}
@@ -67,7 +67,7 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "98.41%",
     "time": 173,
-    "timeDay": 153,
+    "timeDay": 154,
     "timeWeek": 277,
     "timeMonth": 181,
     "timeYear": 173,
@@ -88,11 +88,11 @@
     "url": "$COM_IP",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-komunikacni-protokol",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 0,
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-11-14": 3
+      "2025-11-14": 9
     }
   }
 ]
