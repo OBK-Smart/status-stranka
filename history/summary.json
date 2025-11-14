@@ -4,19 +4,19 @@
     "url": "$URL",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-hlavni-stranka",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 557,
-    "timeDay": 148,
+    "timeDay": 147,
     "timeWeek": 145,
     "timeMonth": 145,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 5
     }
   },
   {
@@ -89,10 +89,10 @@
     "url": "$COM_IP",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-komunikacni-protokol",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 120,
@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-11-14": 3
+      "2025-11-14": 6
     }
   }
 ]
