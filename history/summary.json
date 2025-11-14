@@ -4,18 +4,20 @@
     "url": "$URL",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-hlavni-stranka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 151,
+    "time": 557,
+    "timeDay": 148,
     "timeWeek": 145,
     "timeMonth": 145,
-    "timeYear": 558,
-    "dailyMinutesDown": {}
+    "timeYear": 557,
+    "dailyMinutesDown": {
+      "2025-11-14": 0
+    }
   },
   {
     "name": "SERVER 1 - Komunikační API",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 529,
-    "timeWeek": 546,
+    "timeDay": 525,
+    "timeWeek": 542,
     "timeMonth": 541,
     "timeYear": 375,
     "dailyMinutesDown": {}
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 123,
+    "timeDay": 124,
     "timeWeek": 127,
     "timeMonth": 126,
     "timeYear": 132,
@@ -87,17 +89,19 @@
     "url": "$COM_IP",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-1-komunikacni-protokol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-14": 3
+    }
   }
 ]
