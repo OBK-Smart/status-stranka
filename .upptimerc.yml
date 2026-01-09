@@ -27,7 +27,7 @@ sites:
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     url: $DB2
     method: POST
-    maxResponseTime: 2500
+    maxResponseTime: 5000
     #type: globalping
     #location: CZ
   - name: SERVER 1 - Komunikační protokol
