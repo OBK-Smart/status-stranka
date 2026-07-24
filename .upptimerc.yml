@@ -30,6 +30,7 @@ sites:
     maxResponseTime: 5000
     type: globalping
     location: CZ
+    method: POST
   - name: SERVER 1 - Komunikační protokol
     icon: https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png
     check: "tcp-ping"
