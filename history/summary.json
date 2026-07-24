@@ -61,11 +61,11 @@
     "url": "$DB2",
     "icon": "https://smart.obrokov.cz/assety/obrazky/ikony/32x32.png",
     "slug": "server-2-databaze",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.92%",
     "time": 182,
     "timeDay": 471,
@@ -84,7 +84,8 @@
       "2026-03-19": 27,
       "2026-04-20": 948,
       "2026-04-19": 1440,
-      "2026-04-18": 1434
+      "2026-04-18": 1434,
+      "2026-07-24": 4
     }
   },
   {
