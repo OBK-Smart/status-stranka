@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
-    "timeDay": 656,
-    "timeWeek": 724,
+    "timeDay": 687,
+    "timeWeek": 728,
     "timeMonth": 784,
     "timeYear": 723,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 349,
-    "timeWeek": 369,
-    "timeMonth": 384,
+    "timeDay": 387,
+    "timeWeek": 375,
+    "timeMonth": 385,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 196,
-    "timeDay": 349,
-    "timeWeek": 370,
-    "timeMonth": 382,
+    "timeDay": 388,
+    "timeWeek": 377,
+    "timeMonth": 383,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-12-03": 299,
@@ -65,14 +65,14 @@
     "slug": "server-2-databaze",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.16%",
     "time": 223,
-    "timeDay": 396,
-    "timeWeek": 398,
-    "timeMonth": 424,
+    "timeDay": 440,
+    "timeWeek": 405,
+    "timeMonth": 425,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2026-01-12": 29,
@@ -84,8 +84,7 @@
       "2026-04-20": 948,
       "2026-04-19": 1440,
       "2026-04-18": 1434,
-      "2026-11-09": 27,
-      "2026-11-25": 7
+      "2026-11-09": 27
     }
   },
   {
@@ -100,8 +99,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 115,
-    "timeWeek": 121,
+    "timeDay": 128,
+    "timeWeek": 124,
     "timeMonth": 127,
     "timeYear": 125,
     "dailyMinutesDown": {}
